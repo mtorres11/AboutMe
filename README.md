@@ -113,4 +113,4 @@ In addition to my professional work, I am an active member of the Central Americ
 
 ## Contact
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/marco-torres/) or via email at [marco.torres@example.com](mailto:marco.torres@example.com).
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/marco-torres/).
