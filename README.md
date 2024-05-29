@@ -94,10 +94,6 @@ In addition to my professional work, I am an active member of the Central Americ
 
 - **Universitat Autònoma de Barcelona**
   - MSc in Video Game Creation (2010 - 2011)
-- **Consultores Asociados**
-  - Diploma in .NET Technologies (2009 - 2010)
-- **AvVenta WorldWide University**
-  - JavaScript & JS Frameworks (2007)
 - **Universidad de Costa Rica**
   - BSc in Engineering (2001 - 2006)
 - **Liceo de Moravia**
